@@ -34,6 +34,12 @@ This means that everything went perfect! Woo! Now, let's keep going on.
 * Top 10 widget automatically creates list numbers and sorts itself by like amounts.
 * Pretty much everything is done with Wordpress API and all injection attacks are tested for safety. _(If you find some open an [issue](https://github.com/tkduman/dlike/issues) please.)_
 
+# Roadmap
+
+* Will add an options page and will provide some options for pruning likes.
+* Will provide more freedom over which symbol is used to favorite/like a post. (Heart, star etc.)
+* Code improvements.
+
 # Fun fact
 
 I've created this as my intern application project for [Özgür Yazılım](https://ozguryazilim.com.tr). Özgür Yazılım have stated that this code is not for their company and I can use as a reference in the future. I hope I get to use this widget as a reference someday, somewhere. (:
