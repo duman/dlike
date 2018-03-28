@@ -497,7 +497,7 @@ function most_popular_year($title)
         'year' => $year,
         'post_type' => array( 'post', 'posts' ),
         'meta_key' => '_post_like_count',
-        'orderby' => '_post_like_count',
+        'orderby' => 'meta_value_num',
         'order' => 'DESC',
         'posts_per_page' => 10
     );
