@@ -20,6 +20,6 @@ This means that everything went perfect! Woo! Now, let's keep going on.
 6. Click on Activate Plugin.
 7. Navigate to Appearance, Widgets.
 8. Drag and drop the "DLIKE - Top 10 list for the dlike widget" to your desired sidebar/footer.
-8.1. Add a title for your widget, if you want to. (Optional)
-9. Go to your homepage and start using it!
-10. Enjoy!
+9 Add a title for your widget, if you want to. (Optional)
+10. Go to your homepage and start using it!
+11. Enjoy!
