@@ -24,6 +24,11 @@ This means that everything went perfect! Woo! Now, let's keep going on.
 10. Go to your homepage and start using it!
 11. Enjoy!
 
+# Demo sites
+
+* https://test.dumandocs.com (Using Hueman theme)
+* https://test.dumanstudios.com (Using stock wordpress theme)
+
 # Some cool features
 
 * Even if you remove the extension at a point and then re-install it, your likes will remain and you can just use your old data.
@@ -33,6 +38,7 @@ This means that everything went perfect! Woo! Now, let's keep going on.
 * Heart symbols under posts are drawn with SVG, they will look great no matter how zoomed in you are in your screen.
 * Top 10 widget automatically creates list numbers and sorts itself by like amounts.
 * Pretty much everything is done with Wordpress API and all injection attacks are tested for safety. _(If you find some open an [issue](https://github.com/tkduman/dlike/issues) please.)_
+* Normally like button is embedded inside the post content but if theme allows displaying full post content on the front page, like button will also be clickable on the frontpage. Otherwise you need to go into the post, as it's supposed to be.
 
 # Roadmap
 
