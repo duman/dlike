@@ -24,10 +24,10 @@ This means that everything went perfect! Woo! Now, let's keep going on.
 10. Go to your homepage and start using it!
 11. Enjoy!
 
-# Demo sites
+# Demo sites (Currently won't work.)
 
-* https://test.dumandocs.com (Using Hueman theme)
-* https://test.dumanstudios.com (Using stock wordpress theme)
+* ~~https://test.dumandocs.com (Using Hueman theme)~~
+* ~~https://test.dumanstudios.com (Using stock wordpress theme)~~
 
 # Some cool features
 
